@@ -9,3 +9,6 @@
 
 `node app.js -a 'times suare, New York'`
 
+### search an ZipCode
+
+`node app.js -a '313001`
